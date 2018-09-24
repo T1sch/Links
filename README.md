@@ -1,2 +1,5 @@
 # Links
-Links for a bette work
+
+List of general topics
+
+https://github.com/sindresorhus/awesome
